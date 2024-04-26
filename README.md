@@ -26,8 +26,23 @@ To install them, simply run this pip command in your terminal:
 
 ![Screenshot_2024_0426_145624](https://github.com/Praveen-ASE/Color-Detection/assets/148997369/44dadec4-e3d7-4ee7-9e7e-54ad679be01b)
 
-<h3>Project Execution</h3><hr>
+<h3>Project Execution:</h3><hr>
 You can run the Python file from the command prompt. Make sure to give an image path using ‘-i’ argument. If the image is in another directory, then you need to give full path of the image:
 <b>python color_detection.py -i <add your image path here></b>
+
+![Screenshot_2024_0426_151606](https://github.com/Praveen-ASE/Color-Detection/assets/148997369/c2daa201-3456-4341-8664-5f197dcb3706)
+![Screenshot_2024_0426_151622](https://github.com/Praveen-ASE/Color-Detection/assets/148997369/60d4e782-0c10-4a0b-ac93-d2950d7e9c57)
+
+
+<h3>Real World Applications:</h3><hr>
+
+<p><li>In self-driving car, to detect the traffic signals.</li></p>
+<p><li>It is used in some industrial robots, to performing pick-and-place task in separating different colored objects.</li></p>
+<p><li>it is used to recognize the name of color.</li></p>
+
+
+
+
+
 
 
