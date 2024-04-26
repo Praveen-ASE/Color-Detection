@@ -14,3 +14,9 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 
 The colors.csv file includes 865 color names along with their RGB and hex values <a href="https://www.kaggle.com/datasets/adityabhndari/color-detection-data-set">visit here</a>
 
+<h3>Install Required Modules</h3></hr>
+OpenCV, Pandas, argparse and numpy are the Python packages that are necessary for this project in Python. 
+
+To install them, simply run this pip command in your terminal:
+
+<b>pip install opencv-python numpy pandas</b>
