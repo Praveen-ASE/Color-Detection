@@ -23,3 +23,11 @@ To install them, simply run this pip command in your terminal:
 
 
 <h3>Use Case Diagram:</h3><hr>
+
+![Screenshot_2024_0426_145624](https://github.com/Praveen-ASE/Color-Detection/assets/148997369/44dadec4-e3d7-4ee7-9e7e-54ad679be01b)
+
+<h3>Project Execution</h3><hr>
+You can run the Python file from the command prompt. Make sure to give an image path using ‘-i’ argument. If the image is in another directory, then you need to give full path of the image:
+<b>python color_detection.py -i <add your image path here></b>
+
+
